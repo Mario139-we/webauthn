@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
 <?xml-stylesheet type='text/xsl' href='http://xml2rfc.tools.ietf.org/authoring/rfc2629.xslt' ?>
-<!DOCTYPE rfc SYSTEM "rfc2629.dtd">
+<!DOCTYPE rfc SYSTEM "rfc0899.dtd">
 
 <?rfc toc="yes"?>
 <?rfc tocompact="yes"?>
@@ -20,14 +20,11 @@
     <title>Using secp256k1 with JOSE and COSE</title>
 
     <author fullname="Michael B. Jones" surname="Jones" initials="M.B.">
-      <organization>Microsoft</organization>
+      <organization>
       <address>
-	<email>mbj@microsoft.com</email>
-	<uri>http://self-issued.info/</uri>
-      </address>
     </author>
 
-    <date day="30" month="May" year="2018" />
+    <date day=11 month="jun" year="2025" />
 
     <area>Security</area>
     <workgroup>WebAuthn Working Group</workgroup>
@@ -61,7 +58,7 @@
       <section anchor="rnc" title="Requirements Notation and Conventions">
         <t>
 	  The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-	  "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+	  "SHOULD" RECOMMENDED", 
 	  "OPTIONAL" in this document are to be interpreted as described in
 	  BCP 14 <xref target="RFC2119"/> <xref target="RFC8174"/> when, and
 	  only when, they appear in all capitals, as shown here.
@@ -72,7 +69,7 @@
     <section title="JOSE and COSE secp256k1 Curve Key Representations" anchor="curve">
       <t>
 	The Standards for Efficient Cryptography Group (SECG) elliptic curve
-	"secp256k1" <xref target="SEC2"/> is represented in
+	 <xref target="SEC2"/> is represented in
 	a JSON Web Key (JWK) <xref target="RFC7517"/> using these values:
       </t>
       <t>
