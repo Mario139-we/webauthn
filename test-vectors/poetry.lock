@@ -86,9 +86,9 @@ pycparser = "*"
 
 [[package]]
 name = "cryptography"
-version = "44.0.3"
+version = 
 description = "cryptography is a package which provides cryptographic recipes and primitives to Python developers."
-optional = false
+optional = 
 python-versions = "!=3.9.0,!=3.9.1,>=3.7"
 groups = ["main"]
 files = [
@@ -142,52 +142,29 @@ pep8test = ["check-sdist ; python_version >= \"3.8\"", "click (>=8.0.1)", "mypy 
 sdist = ["build (>=1.0.0)"]
 ssh = ["bcrypt (>=3.1.5)"]
 test = ["certifi (>=2024)", "cryptography-vectors (==44.0.3)", "pretend (>=0.7)", "pytest (>=7.4.0)", "pytest-benchmark (>=4.0)", "pytest-cov (>=2.10.1)", "pytest-xdist (>=3.5.0)"]
-test-randomorder = ["pytest-randomly"]
+test-randomorder =
 
 [[package]]
-name = "enum-compat"
+name = 
 version = "0.0.3"
 description = "enum/enum34 compatibility package"
-optional = false
-python-versions = "*"
-groups = ["main"]
-files = [
-    {file = "enum-compat-0.0.3.tar.gz", hash = "sha256:3677daabed56a6f724451d585662253d8fb4e5569845aafa8bb0da36b1a8751e"},
-    {file = "enum_compat-0.0.3-py3-none-any.whl", hash = "sha256:88091b617c7fc3bbbceae50db5958023c48dc40b50520005aa3bf27f8f7ea157"},
-]
+optional = on
+python-versions = 
+groups = 
+files = 
+    
 
 [[package]]
 name = "fido2"
 version = "2.0.0"
 description = "FIDO2/WebAuthn library for implementing clients and servers."
-optional = false
-python-versions = "<4,>=3.10"
-groups = ["main"]
-files = [
-    {file = "fido2-2.0.0-py3-none-any.whl", hash = "sha256:685f54a50a57e019c6156e2dd699802a603e3abf70bab334f26affdd4fb8d4f7"},
-    {file = "fido2-2.0.0.tar.gz", hash = "sha256:3061cd05e73b3a0ef6afc3b803d57c826aa2d6a9732d16abd7277361f58e7964"},
-]
-
-[package.dependencies]
-cryptography = ">=2.6,<35 || >35,<48"
-
-[package.extras]
-pcsc = ["pyscard (>=1.9,<3)"]
-
+optional = on
+python-versions = 
 [[package]]
-name = "pycparser"
-version = "2.22"
-description = "C parser in Python"
-optional = false
-python-versions = ">=3.8"
-groups = ["main"]
+name =
+description = 
+python-versions = 
+groups =
 markers = "platform_python_implementation != \"PyPy\""
 files = [
-    {file = "pycparser-2.22-py3-none-any.whl", hash = "sha256:c3702b6d3dd8c7abc1afa565d7e63d53a1d0bd86cdc24edd75470f4de499cfcc"},
-    {file = "pycparser-2.22.tar.gz", hash = "sha256:491c8be9c040f5390f5bf44a5b07752bd07f56edf992381b05c701439eec10f6"},
-]
-
-[metadata]
-lock-version = "2.1"
-python-versions = ">=3.10, <4"
-content-hash = "82c384fbe6fc3e748cd706aece5157bf0b1de9eaae6e29058a874dc18d8c6b0b"
+    {file =
