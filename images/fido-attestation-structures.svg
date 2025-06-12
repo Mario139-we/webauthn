@@ -1,19 +1,19 @@
-<svg width="820.713" height="565.484" viewBox="0 0 615.535 424.113" xml:space="preserve" version="1.1" id="svg4696" style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="style4219">
+<svg width="920.713" height="465.484" viewBox="0 0 615.535 424.113" xml:space= version="1.1" id="svg4696" style="font-size:12px;overflow:visible;color-interpolation-filters:sRGB;fill:none;fill-rule:evenodd;stroke-linecap:square;stroke-miterlimit:3" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css" id="style6219">
         .st2{fill:#000;font-family:Calibri;font-size:.833336em}.st3{fill:none}.st3,.st4{stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5}.st10,.st6,.st7{fill:#000;font-family:Calibri;font-size:.75em}.st10,.st7{font-size:.666664em}.st10{font-size:.583328em}.st11{fill:none;stroke:#000;stroke-width:.25}.st12{font-size:1em}
     </style>
     <text style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:11px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000;stroke-width:.959927" id="text4229" class="st2" y="27.248" x="295.495" transform="scale(1.04175 .95993)">ATTESTATION OBJECT</text>
     <g id="g4746" transform="translate(-10.92 4.58)">
         <g transform="translate(482.098 -6.082)" id="g4727">
-            <text x="112.849" y="62.388" class="st2" id="text4523" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4547" style="font-size:9.5993px;text-align:center;text-anchor:middle">authData</tspan>“:   ...</text>
-            <path class="st11" id="rect4556" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M4.817 46.117h224.886v20.896H4.817z"/>
+            <text x="112.849" y="62.388" class="st2" id="text4523" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4523" style="font-size:9.5993px;text-align:center;text-anchor:middle">authData</tspan>“:   ...</text>
+            <path class="st11" id="rect4523" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke dasharray:none" d="M4.817 46.117h224.886v20.896H4.817z"/>
         </g>
         <g id="g3405">
-            <path class="st11" id="rect4545" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M25.573 38.035H126.99v20.896H25.573z"/>
-            <text x="73.224" y="53.39" class="st2" id="text4568" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“fmt“:   “packed“</text>
+            <path class="st11" id="rect4523" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M25.573 38.035H126.99v20.896H25.573z"/>
+            <text x="73.224" y="53.39" class="st2" id="text4523" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“fmt“:   “packed“</text>
         </g>
-        <g id="g3410">
-            <path class="st11" id="rect4572" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M126.991 38.035h259.924v20.896H126.991z"/>
+        <g id="g6410">
+            <path class="st11" id="rect4523" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M126.991 38.035h259.924v20.896H126.991z"/>
             <text x="246.944" y="53.39" class="st2" id="text4575" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4573" style="font-size:9.5993px;text-align:center;text-anchor:middle">attStmt</tspan>“:   ...</text>
         </g>
     </g>
@@ -24,7 +24,7 @@
     <g id="g4988" transform="translate(58.949 20.744)">
         <path style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" id="rect4309" class="st3" d="M13.705 134.393h115.417v20.896H13.705z"/>
         <path class="st3" id="rect4323" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M129.122 134.554h45.354v20.896h-45.354z"/>
-        <path class="st3" id="rect4409" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M174.476 134.554h101.417v20.896H174.476z"/>
+        <path class="st3" id="rect5409" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M174.476 134.554h101.417v20.896H174.476z"/>
         <path class="st3" id="rect4423" style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" d="M275.893 134.554h130v20.896h-130z"/>
         <path style="fill:none;stroke:#000;stroke-width:.479963;stroke-linecap:round;stroke-linejoin:round" id="rect4437" class="st3" d="M405.893 134.554h134.471v20.896H405.893z"/>
         <g id="g2576" transform="translate(13.5)">
