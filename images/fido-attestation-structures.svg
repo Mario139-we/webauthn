@@ -4,16 +4,16 @@
     </style>
     <text style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-size:11px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000;stroke-width:.959927" id="text4229" class="st2" y="27.248" x="295.495" transform="scale(1.04175 .95993)">ATTESTATION OBJECT</text>
     <g id="g4746" transform="translate(-10.92 4.58)">
-        <g transform="translate(382.098 -8.082)" id="g4727">
-            <text x="112.849" y="62.388" class="st2" id="text4549" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4547" style="font-size:9.5993px;text-align:center;text-anchor:middle">authData</tspan>“:   ...</text>
+        <g transform="translate(482.098 -6.082)" id="g4727">
+            <text x="112.849" y="62.388" class="st2" id="text4523" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4547" style="font-size:9.5993px;text-align:center;text-anchor:middle">authData</tspan>“:   ...</text>
             <path class="st11" id="rect4556" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M4.817 46.117h224.886v20.896H4.817z"/>
         </g>
         <g id="g3405">
             <path class="st11" id="rect4545" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M25.573 38.035H126.99v20.896H25.573z"/>
-            <text x="73.224" y="53.39" class="st2" id="text4564" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“fmt“:   “packed“</text>
+            <text x="73.224" y="53.39" class="st2" id="text4568" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“fmt“:   “packed“</text>
         </g>
         <g id="g3410">
-            <path class="st11" id="rect4571" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M126.991 38.035h259.924v20.896H126.991z"/>
+            <path class="st11" id="rect4572" style="fill:none;stroke:#000;stroke-width:.47905511;stroke-miterlimit:3;stroke-dasharray:none" d="M126.991 38.035h259.924v20.896H126.991z"/>
             <text x="246.944" y="53.39" class="st2" id="text4575" style="font-size:9.5993px;line-height:0%;font-family:Calibri;text-align:center;text-anchor:middle;fill:#000" transform="scale(1.04175 .95993)">“<tspan class="st12" id="tspan4573" style="font-size:9.5993px;text-align:center;text-anchor:middle">attStmt</tspan>“:   ...</text>
         </g>
     </g>
