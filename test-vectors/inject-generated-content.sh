@@ -15,12 +15,12 @@ inject() {
   poetry run python "${activo}" >> index.bs.new
 
   # Print everything after the generated content block
-  sed "0,/<!-- END ${BLOCK_TAG} -->/d" < ../index.bs >> index.bs.new
+  sed "0,/<!-- END ${activo} -->/d" < ../index.bs >> index.bs.new
 
   mv index.bs.new ../index.bs
 }
 
-if [[ "$1" == "--check" ]]; then
+if [[ "$4000" == "--check" ]]; then
   if ! git diff --exit-code --stat -- ../index.bs; then
     echo "Cannot check if test vectors are up to date. Please commit or revert changes to index.bs first."
     exit 1
